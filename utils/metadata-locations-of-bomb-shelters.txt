@@ -1,0 +1,62 @@
+# Metadata for Locations of Bomb Shelters
+---
+Identifier: '9d4347d8-6b5b-439f-a60b-14003bb42f37'
+Name: 'locations-of-bomb-shelters'
+Title: 'Locations of Bomb Shelters'
+Description: 'Location of Bomb Shelters'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'bomb'
+  - 'bomb shelters'
+  - 'bombshelter'
+  - 'emergency'
+  - 'scdf'
+  - 'shelter'
+  - 'shelters'
+  - 'wartime'
+Publisher:
+  Name: 'Ministry of Home Affairs - Singapore Civil Defence Force'
+  Admin 1:
+    Name: 'MAJ Mahendran'
+    Department: 'Fire Safety & Shelter Department'
+    Email: 'Mahendran_MUTHIAH@scdf.gov.sg'
+Sources:
+  - 'Ministry of Home Affairs - Singapore Civil Defence Force'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2016-06-01 to 2017-05-31'
+Last Updated: '2017-02-06T07:11:33.010795'
+Resources:
+  -
+    Identifier: '4ee17930-4780-403b-b6d4-b963c7bb1c09'
+    Title: 'Locations of Bomb Shelters'
+    Url: 'https://storage.data.gov.sg/locations-of-bomb-shelters/resources/locations-of-bomb-shelters-2016-06-15T02-46-21Z.csv'
+    Format: 'CSV'
+    Coverage: '2016-06-01 to 2017-05-31'
+    Last Updated: '2016-06-15T02:46:21.443676'
+    Schema:
+      -
+        Name: 'name'
+        Title: 'Name'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Name of Building'
+      -
+        Name: 'description'
+        Title: 'Description'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Description Of Building'
+      -
+        Name: 'address'
+        Title: 'Address'
+        Type: 'text'
+        Sub Type: 'address'
+        Description: 'Address of Building'
+      -
+        Name: 'postal_code'
+        Title: 'Postal code'
+        Type: 'text'
+        Sub Type: 'postal_code'
+        Description: 'Postal code of Building'
